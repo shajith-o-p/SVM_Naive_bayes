@@ -1,1 +1,1 @@
-# SVM_Naive_bayes
+'SVM and Neive Bayes Assignment'  Practical answers in .ipynb file
